@@ -1,0 +1,9 @@
+D:\Dev\C Sharp\ImageManipulator\ImageManipulator\bin\Debug\ImageManipulator.exe.config
+D:\Dev\C Sharp\ImageManipulator\ImageManipulator\bin\Debug\ImageManipulator.exe
+D:\Dev\C Sharp\ImageManipulator\ImageManipulator\bin\Debug\ImageManipulator.pdb
+D:\Dev\C Sharp\ImageManipulator\ImageManipulator\obj\Debug\ImageManipulator.csprojResolveAssemblyReference.cache
+D:\Dev\C Sharp\ImageManipulator\ImageManipulator\obj\Debug\ImageManipulator.Form1.resources
+D:\Dev\C Sharp\ImageManipulator\ImageManipulator\obj\Debug\ImageManipulator.Properties.Resources.resources
+D:\Dev\C Sharp\ImageManipulator\ImageManipulator\obj\Debug\ImageManipulator.csproj.GenerateResource.Cache
+D:\Dev\C Sharp\ImageManipulator\ImageManipulator\obj\Debug\ImageManipulator.exe
+D:\Dev\C Sharp\ImageManipulator\ImageManipulator\obj\Debug\ImageManipulator.pdb
