@@ -2,4 +2,4 @@
 
 To run the application -> /ImageManipulator/bin/Debug/ImageManipulator.exe
 
-## Cheers!
+Cheers!
